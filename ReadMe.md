@@ -1,13 +1,16 @@
-## Installtion  
+### Libraries to revise
+re  
+multiprocessing  
+logging  
 
-#### Anaconda   
-conda create -n pytorch python=3.6
+word2vec v/s tf-idf
 
-#### Spacy   
-conda install -c conda-forge spacy  
+#### Terms
+Huffman tree  
+CBOW  
+skip gram  
+T-SNE 
+adverse model(nlp)
 
-#### Genism   
-conda install -c anaconda gensim  
 
-#### Pytorch   
-conda install -c peterjc123 pytorch
+
